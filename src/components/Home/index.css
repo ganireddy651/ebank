@@ -1,0 +1,30 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 20px 60px;
+}
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #dfffff;
+  color: #dfffff;
+  height: 35px;
+  width: 80px;
+}
+.card-container {
+  margin: 50px 0;
+  text-align: center;
+}
+.home-heading {
+  color: #dfffff;
+  font-size: 48px;
+  font-family: 'Roboto';
+}
+.digital-card {
+  width: 50%;
+}
